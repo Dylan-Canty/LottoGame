@@ -1,0 +1,6 @@
+Grape:€1000:4
+Apple:Trip to Caribbean:4
+Pear:Suzuki Celerio:5
+Banana:€10000:5
+Grapefruit:€500000:6
+Cherry:Trip to Space:6
